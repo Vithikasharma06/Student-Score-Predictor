@@ -59,7 +59,8 @@ Data was preprocessed to handle missing values, encode categorical variables, an
    source venv/bin/activate   # Linux/Mac
    venv\Scripts\activate      # Windows
 
-3. Install dependencies
+3. Install dependencies:
+   
    numpy==1.26.5
    pandas==2.2.0
    matplotlib==3.8.1
@@ -78,7 +79,7 @@ Data was preprocessed to handle missing values, encode categorical variables, an
 
    streamlit run app.py 
 
-
+---
 
 **How it Works 🔮**
   User enters details like study hours, attendance, sleep, etc.
